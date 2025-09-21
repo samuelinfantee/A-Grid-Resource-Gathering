@@ -6,7 +6,7 @@ The python code sinfante_Intro AI_Project 1 part 2 (code).py contains the A* alg
 # install the only external dependency
 pip install matplotlib
 
-#Editing maps & parameters
+# Editing maps & parameters
 
 At the top:
 
