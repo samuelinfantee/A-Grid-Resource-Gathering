@@ -28,3 +28,5 @@ goal = {"stones": 3, "irons": 2, "crystals": 1}
 
 Test maps (TEST_MAPS): four 5×5 boards; tweak or add your own:
 TEST_MAPS = {}
+<img width="730" height="385" alt="image" src="https://github.com/user-attachments/assets/c3a5c9d8-dcc2-44f9-9a87-c46a61474bd4" />
+
